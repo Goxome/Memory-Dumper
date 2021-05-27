@@ -22,8 +22,7 @@ Python Android Memory Dumper
 
 # Screenshot
 
-<img src="https://user-images.githubusercontent.com/56850970/119896657-f26c1c80-bf5c-11eb-878e-6a7af2835139.png" width="145" height="300">
-
+<img src="https://user-images.githubusercontent.com/56850970/119897763-8c809480-bf5e-11eb-8291-1b80fe2e6f80.png" width="145" height="300">
 
 
 
