@@ -12,7 +12,7 @@ Python Android Memory Dumper
 
 - To install python use this command - pkg install python
 
-3. tsu Installed in Termux
+3. tsu Installed in Termux or bash ./Required.bash
 
 - To install tsu use this command - pkg install tsu
 
