@@ -16,6 +16,20 @@ Python Android Memory Dumper
 
 - To install tsu use this command - pkg install tsu
 
+
+
+
+
+# Screenshot
+
+<img src="https://user-images.githubusercontent.com/56850970/119896657-f26c1c80-bf5c-11eb-878e-6a7af2835139.png" width="145" height="300">
+
+
+
+
+
+
+
 # Usage
 
 1. find pid of main process using pidof command
